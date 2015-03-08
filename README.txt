@@ -4,7 +4,7 @@ Especializacion en construccion de Software
 Universidad de los Andes
 
 Instrucciones para obtener el repositorio desde github:
-Hacer clone al proyecto con la siguiente URL: 
+Hacer clone al proyecto con la siguiente URL:  https://github.com/alejachica/psp21.git
 usuario: alejachica
 
 Para ejecutar el programa localmente, ejecutar el siguiente comando:
@@ -12,7 +12,7 @@ mvn package
 java -cp target/psp21-1.0-SNAPSHOT.jar edu.uniandes.ecos.psp21.vista.VistaConsola
 
 Para ejecutar el progama desde Heroku, ingresar a la siguiente URL:
-
+https://psp21-alejachica.herokuapp.com/
 
 Estas son las cadenas para ejecutar los test.
 

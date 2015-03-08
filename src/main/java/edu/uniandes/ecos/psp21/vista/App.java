@@ -104,7 +104,7 @@ public class App extends HttpServlet {
 		Controlador c = new Controlador();
 		String resultado = c.realizarCalculos(Double.valueOf(dof), Integer.valueOf(numSeg), Double.valueOf(x), Double.valueOf(valEsp));
 
-		resp.getWriter().print("Entrega PSP2 - Alejandra Chica\n" + "El valor de X es: " + resultado);
+		resp.getWriter().print("Entrega PSP2.1 - Alejandra Chica\n" + "El valor de X es: " + resultado);
 	}
 
 	/**

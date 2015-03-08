@@ -34,7 +34,7 @@ public class VistaConsola {
 		Controlador c = new Controlador();
 		String resultado = c.realizarCalculos(dof, numSeg, limiteSuperior, valorEsperado);
 		
-		System.out.println(resultado);
+		System.out.println("Test 1, x = " + resultado);
 	}
 
 	/**
@@ -50,7 +50,7 @@ public class VistaConsola {
 		Controlador c = new Controlador();
 		String resultado = c.realizarCalculos(dof, numSeg, limiteSuperior, valorEsperado);
 		
-		System.out.println(resultado);
+		System.out.println("Test 2, x = " + resultado);
 	}
 	
 	/**
@@ -66,7 +66,7 @@ public class VistaConsola {
 		Controlador c = new Controlador();
 		String resultado = c.realizarCalculos(dof, numSeg, limiteSuperior, valorEsperado);
 		
-		System.out.println(resultado);
+		System.out.println("Test 3, x = " + resultado);
 	}
 
 }
